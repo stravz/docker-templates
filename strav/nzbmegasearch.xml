@@ -39,5 +39,6 @@ P unique NZB provider.
     </Volume>
   </Data>
   <WebUI>http://[IP]:[PORT:5000]/</WebUI>
+  <Icon>http://www.strav.net/images/icon_nzbmegasearch.png</Icon>
   <Beta>False</Beta>
 </Containers>
